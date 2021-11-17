@@ -22,7 +22,7 @@ import sys
 import shutil
 os.environ["CUDA_VISIBLE_DEVICES"]="0"
 parser = argparse.ArgumentParser()
-parser.add_argument('--config', type=str, default='configs/male2female.yaml', help='Path to the config file.')
+parser.add_argument('--config', type=str, default='configs/r2h2.yaml', help='Path to the config file.')
 parser.add_argument('--output_path', type=str, default='./', help="outputs path")
 parser.add_argument("--resume", action="store_true")
 parser.add_argument('--trainer', type=str, default='aclgan', help="aclgan")
