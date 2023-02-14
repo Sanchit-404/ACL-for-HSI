@@ -1,3 +1,5 @@
+Tweaked the following paper for conversion of 3 channeled RGB to 31 channeled HSI images.
+
 ### Paper
 
 Yihao Zhao, Ruihai Wu, Hao Dong, ["Unpaired Image-to-Image Translation using Adversarial Consistency Loss"](https://arxiv.org/abs/2003.04858 ), ECCV 2020
