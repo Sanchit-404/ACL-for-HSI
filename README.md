@@ -1,4 +1,4 @@
-Tweaked the following paper for conversion of 3 channeled RGB to 31 channeled HSI images.
+Tweaked the following paper for conversion of 3 channeled RGB to 31 channeled HSI images. Aim is to generate an HSI dataset from RGB dataset. My first research project!
 
 ### Paper
 
